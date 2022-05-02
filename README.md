@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Łukasz Szawroński
 - 👀 I’m interested in programming in java.
 - 🌱 I’m currently learning Maven, Hibernate, Spring Boot, MySQL.
-- 💞️ I’m looking to collaborate as a junior java dev.
+- 💞️ I’m looking to collaborate as junior java dev.
 - 📫 How to reach me: Phone number- 511 418 874 or email- lukasz.szawronski@gmail.com
