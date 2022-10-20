@@ -3,7 +3,11 @@
 - 📫 How to reach me: Phone number- 511 418 874 or email- lukasz.szawronski@gmail.com
 
 My tech skills:
-✅ Java ✅ Spring Boot ✅ Hibernate ✅ MySQL ✅ Thymeleaf ✅ Bootsrap
-✅Selenium WebDriver ✅Jira ✅Azure DevOps ✅DevTools ✅REST Assured 
+
+✅ Java ✅ Spring Boot ✅ Hibernate ✅ MySQL ✅Selenium WebDriver
+
+ ✅Jira ✅Azure DevOps ✅DevTools ✅REST Assured 
+ 
 ✅Postman ✅Swagger ✅Test cases ✅Bug reporting ✅ISTQB
-✅Testlink ✅Picpic ✅Sharex ✅
+
+✅Testlink ✅Picpick ✅Sharex ✅ Thymeleaf ✅ Bootsrap
