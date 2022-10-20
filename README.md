@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Łukasz Szawroński
 - 👀 I’m interested in programming, playing Path of Exile, volleyball and fishing.
-- 🌱 I’m currently learning Java: Spring Boot, Hibernate, MySQL, Bootstrap.
-- 💞️ I’m looking to collaborate as junior java dev.
 - 📫 How to reach me: Phone number- 511 418 874 or email- lukasz.szawronski@gmail.com
+
+My tech skills:
+✅ Java ✅ Spring Boot ✅ Hibernate ✅ MySQL ✅ Thymeleaf ✅ Bootsrap
+✅Selenium WebDriver ✅Jira ✅Azure DevOps ✅DevTools ✅REST Assured 
+✅Postman ✅Swagger ✅Test cases ✅Bug reporting ✅ISTQB
+✅Testlink ✅Picpic ✅Sharex ✅
